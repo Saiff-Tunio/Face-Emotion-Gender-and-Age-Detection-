@@ -1,5 +1,3 @@
-Got it 👍 — here’s the complete **README.md** file ready to use:
-
 ````markdown
 # Face Emotion, Gender, and Age Detection
 
